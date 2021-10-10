@@ -1,7 +1,3 @@
-**Specialization Name**: DeepLearning.AI TensorFlow Developer
-
-Below is the list of assignments and ungraded labs course-wise.
-
 # DeepLearning.AI TensorFlow Developer
 
 This project consists of assignments and quizzes from coursera DeepLearning.AI TensorFlow Developer certificate course
@@ -12,4 +8,4 @@ This project consists of assignments and quizzes from coursera DeepLearning.AI T
 - W4 : Sequences, Time Series and Prediction
 
 ### Certificate
-<img src="https://github.com/kohheekyung/TensorflowCertificate/blob/main/certificate/CourseraCertificate.png" width="500">
+<img src="https://github.com/kohheekyung/TensorflowCertificate/blob/main/cetificate/CourseraCertificate.png" width="500">
